@@ -5,7 +5,7 @@
 
 Prepared by 
 - Jorge Enrique Gatica Fernández
-- Francisco Altamirano ¿?
+- José Francisco Altamirano Zevallos
 - Gerardo Godfrey ¿?
 
 ## Equipo QueremosDulces
