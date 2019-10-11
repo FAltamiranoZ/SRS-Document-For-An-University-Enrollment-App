@@ -15,25 +15,25 @@ Creado el 4 de Octubre del 2019
 # Tabla de Contenidos
 
 1. Introducción
-  a. Inscripciones ITAM
-  b. ¿Por qué apesta tanto?
-  c. Cambios
+   1. Inscripciones ITAM
+   1. ¿Por qué apesta tanto?
+   1. Cambios
 2. Descripción
-  a. Funcionamiento general
-    - Altas
-    - Bajas
-    - Listas de Espera
+   1. Funcionamiento general
+      - Altas
+      - Bajas
+      - Listas de Espera
 3. Requisitos de Interfaz externa
-  a. Yolo
+   1. Yolo
 4. Funcionalidades del Sistema
-  a. Sesión del alumno
-    - Login
-    - Recuperar contraseña
-    - Cambiar contraseña
-    - Perfil
-    - Error
-  b. Swag 1
-  c. Swag 2
+   1. Sesión del alumno
+      - Login
+      - Recuperar contraseña
+      - Cambiar contraseña
+      - Perfil
+      - Error
+   1. Swag 1
+   1. Swag 2
 
 # 4. Funcionalidades del Sistema
 
