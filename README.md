@@ -15,16 +15,24 @@ Creado el 4 de Octubre del 2019
 # Tabla de Contenidos
 
 1. Introducción
-   1. Inscripciones ITAM
-   1. ¿Por qué apesta tanto?
-   1. Cambios
+   1. Propósito
+   1. Convenciones
+   1. Público y recomendaciones de lectura
+   1. Alcance del producto
+   1. Referencias
 2. Descripción
+   1. Perspectiva del producto
    1. Funcionamiento general
       - Altas
       - Bajas
       - Listas de Espera
+   1. Tipos de usuarios y sus características
+   1. Ambiente de operación
+   1. Limitaciones de diseño y operación
+   1. Documentación para el usuario
+   1. Dependencias y supuestos
 3. Requisitos de Interfaz externa
-   1. Yolo
+   1. Interfaz de Usuario
 4. Funcionalidades del Sistema
    1. Sesión del alumno
       - Login
