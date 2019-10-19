@@ -29,6 +29,9 @@ Creado el 4 de Octubre del 2019
       Sin embargo, de haber algún problema de comprensión, se recomienda fuertemente que el lector se diriga a la sección 1.5, donde hallará referencias útiles para la mejor comprensión de las temáticas tratadas; y de la misma manera, se refiera al Apéndice A de la sección 6, donde encontrará un glosario para palabras poco comunes. <br>
       Por último, se estructurará de la siguiente manera el documento a continuación presentado: Introducción al lector, Introducción al proyecto, Profundización en los requerimientos de interfaz, Funcionalidades del sistema, Requerimientos para las áreas relacionadas al proyecto y otros requerimientos no especificados previamente. </p>
    1. Alcance del producto
+      <p>Los usuarios principales son alumnos, los cuales utilizarían el producto al inscribirse al inicio de semestre y darse de baja/consultar materias a lo largo de este. <br>
+      Otro grupo de usuarios son los administrativos escolares, los cuales utilizarían el producto para revisar solicitudes de ruptura de seriación de materias, apertura y cierre de grupos y asignación de horarios y salones. <br>
+      El último grupo de usuarios serían los encargados del mantenimiento de la página, los cuales cuidarían que no se saturen los servidores, arreglar bugs y cualquier otra tarea de mantenimiento del producto que surga. </p>
    1. Referencias
 2. Descripción
    1. Perspectiva del producto
