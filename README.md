@@ -16,18 +16,18 @@ Creado el 4 de Octubre del 2019
 
 1. Introducción
    1. Propósito
-      La creación de esta nueva página de inscripciones se hace con el enfoque de mejorar la que existe actualmente y que está disponible para estudiantes y administrativos desde el portal de grace ITAM.
-      Para esto, se busca mejorar la experiencia del usuario durante el proceso de inscripciones al: remover pantallas innecesarias, utilizar referencias cruzadas de información y la implementación de ayuda durante el proceso para aumentar la accesibilidad del producto.
-      Considerando todo lo previamente dicho, este producto sería la versión 2.0 del sistema de inscripciones actual, al empezar desde 0 el sistema y añadir/remover funcionalidades según se puedan adaptar al producto.
+      <p> La creación de esta nueva página de inscripciones se hace con el enfoque de mejorar la que existe actualmente y que está disponible para estudiantes y administrativos desde el portal de grace ITAM. <br>
+      Para esto, se busca mejorar la experiencia del usuario durante el proceso de inscripciones al: remover pantallas innecesarias, utilizar referencias cruzadas de información y la implementación de ayuda durante el proceso para aumentar la accesibilidad del producto. <br>
+      Considerando todo lo previamente dicho, este producto sería la versión 2.0 del sistema de inscripciones actual, al empezar desde 0 el sistema y añadir/remover funcionalidades según se puedan adaptar al producto. </p>
    1. Convenciones
-      Para el formato de texto de este documento, se utilizó el lenguaje Markdown debido a su integración con Github.
-      Para la estructuración, se utilizó el formato especificado por la IEEE para la creación de documentos de especificación de requerimientos de software.
-      Para las estimaciones se sigue un formato de estilo Pokemon, el cual se estructura de la siguiente manera: Magikarp (baja), Pikachu (media), Charizard (grande), Mewtwo (Enorme).
+      <p> Para el formato de texto de este documento, se utilizó el lenguaje Markdown debido a su integración con Github. <br>
+      Para la estructuración, se utilizó el formato especificado por la IEEE para la creación de documentos de especificación de requerimientos de software. <br>
+      Para las estimaciones se sigue un formato de estilo Pokemon, el cual se estructura de la siguiente manera: Magikarp (baja), Pikachu (media), Charizard (grande), Mewtwo (Enorme). </p>
    1. Público y recomendaciones de lectura
-      Este documento esta escrito con un enfoque dirigido a un público de programadores/desarrolladores que posean un conocimiento basico de ingeniería de software; así como para coordinadores o administradores del equipo de trabajo, para su fácil comprensión de la escala, necesidades, problemáticas y enfoque del proyecto
+      <p> Este documento esta escrito con un enfoque dirigido a un público de programadores/desarrolladores que posean un conocimiento basico de ingeniería de software; así como para coordinadores o administradores del equipo de trabajo, para su fácil comprensión de la escala, necesidades, problemáticas y enfoque del proyecto <br>
       Para la lectura, se recomienda que esta siga un orden lineal para la mejor comprensión de todas las partes y el porque estan implementadas de esta manera.
-      Sin embargo, de haber algún problema de comprensión, se recomienda fuertemente que el lector se diriga a la sección 1.5, donde hallará referencias útiles para la mejor comprensión de las temáticas tratadas; y de la misma manera, se refiera al Apéndice A de la sección 6, donde encontrará un glosario para palabras poco comunes
-      Por último, se estructurará de la siguiente manera el documento a continuación presentado: Introducción al lector, Introducción al proyecto, Profundización en los requerimientos de interfaz, Funcionalidades del sistema, Requerimientos para las áreas relacionadas al proyecto y otros requerimientos no especificados previamente.
+      Sin embargo, de haber algún problema de comprensión, se recomienda fuertemente que el lector se diriga a la sección 1.5, donde hallará referencias útiles para la mejor comprensión de las temáticas tratadas; y de la misma manera, se refiera al Apéndice A de la sección 6, donde encontrará un glosario para palabras poco comunes. <br>
+      Por último, se estructurará de la siguiente manera el documento a continuación presentado: Introducción al lector, Introducción al proyecto, Profundización en los requerimientos de interfaz, Funcionalidades del sistema, Requerimientos para las áreas relacionadas al proyecto y otros requerimientos no especificados previamente. </p>
    1. Alcance del producto
    1. Referencias
 2. Descripción
