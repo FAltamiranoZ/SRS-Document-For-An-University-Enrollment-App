@@ -54,16 +54,21 @@ Creado el 4 de Octubre del 2019
       Además de esto, la plataforma debe de poder coexistir con el sistema de grace que tiene el ITAM, ya que es ahí donde estaría alojado el producto. </p>
    1. Limitaciones de diseño y operación
       <p> Para este proyecto, hay múltiples limitantes que afectarán al desarrollo, estas serían las siguientes: </p>
-      - Políticas del ITAM (seguridad)
-      - Limitaciones de hardware (servidor es pequeño y debe de ser adaptable)
-      - Base de datos preexistente del ITAM (Cómo esta?)
+      - Políticas del ITAM 
+         <p> Se debe de cumplir con los protocolos de seguridad que tiene el ITAM</p>
+      - Limitaciones de hardware
+         <p> El servidor tiene un tamaño relativamente pequeño para el número de alumnos que lo usan (en el horario donde más gente se inscribe, se hace en extremo lento y ha llegado a caerse). </p>
+      - Base de datos preexistente del ITAM
+         <p> Ya existe una base de datos previamente creada por el ITAM siguiendo los estándares establecidos en su momento; además esta contiene información bastante antigua, razón por la cual no se puede rehacer y la nueva plataforma debe de adaptarse al sistema ya existente. </p>
       - Tiempo
+         <p> El tiempo de desarrollo está limitado a 2 meses. </p>
       - Ligero (Para que cualquiera lo pueda usar
+         <p> La plataforma debe de utilizar la menor cantidad de recursos posible, para que tanto cualquier pieza de hardware desde la que se acceda a la paltaforma lo pueda ejecutar sin problema alguno, como para que el servidor no reciba demasiada carga. </p>
    1. Documentación para el usuario
       <p> Al usuario, se le dará un manual especialmente diseñado para ayudarlo con el uso de la nueva plataforma, este se dividirá en 2 secciones; en la primera será un instructivo ilustrado paso a paso sobre como realizar todos los procesos, y la segunda una lista de preguntas hechas de manera frecuente, además de un contacto en caso de que se tengan dudas. <br>
       Este manual reemplazaría al actualmente existente que se distribuye por via electrónica todos los semestres.</p>
    1. Dependencias y supuestos
-      <p> Debido a que todos los recursos utilizados para la plataforma serían propios del ITAM, se asume que se conocen las limitantes de todos los recursos y en que podrían fallar; sin embargo, por esto mismo, sería posible que el proyecto sufra severos retrasos si hay algo de información pertinente a esto que no se compartió con el equipo de desarrollo </p>
+      <p> Debido a que todos los recursos utilizados para la plataforma serían propios del ITAM, se asume que se conocen las limitantes de todos los recursos y en que podrían fallar; sin embargo, por esto mismo, sería posible que el proyecto sufra severos retrasos si hay algo de información pertinente a esto que no se compartió con el equipo de desarrollo. </p>
 3. Requisitos de Interfaz externa
    1. Interfaz de Usuario
 4. Funcionalidades del Sistema
