@@ -6,7 +6,7 @@
 Prepared by 
 - Jorge Enrique Gatica Fernández
 - José Francisco Altamirano Zevallos
-- Gerardo Godfrey ¿?
+- Luis Gerardo Godfrey Castañeda
 
 ## Equipo QueremosDulces
 
