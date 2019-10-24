@@ -71,6 +71,9 @@ Creado el 4 de Octubre del 2019
       <p> Debido a que todos los recursos utilizados para la plataforma serían propios del ITAM, se asume que se conocen las limitantes de todos los recursos y en que podrían fallar; sin embargo, por esto mismo, sería posible que el proyecto sufra severos retrasos si hay algo de información pertinente a esto que no se compartió con el equipo de desarrollo. </p>
 3. Requisitos de Interfaz externa
    1. Interfaz de Usuario
+   2. Interfaz de Hardware
+   3. Interfaz de Software
+   4. Interfaces de Comunicación
 4. Funcionalidades del Sistema
    1. Sesión del alumno
       - Login
@@ -80,6 +83,14 @@ Creado el 4 de Octubre del 2019
       - Error
    1. Swag 1
    1. Swag 2
+
+# 3. Requisitos de Interfaz externa
+
+## 3.1 Interfaz de Usuario
+
+La vista del usuario se compondrá de varias pantallas. La primera de ellas será la pantalla de inicio, desde la cual se podrán ver las distintas actividades a realizar, así como el inicio de sesión. 
+
+Cada una de las funcionalidades tendrá su propia pantalla, desde la cuál se tendrá acceso a todas las distintas opciones requeridas para el correcto desempeño de la actividad planeada.
 
 # 4. Funcionalidades del Sistema
 
