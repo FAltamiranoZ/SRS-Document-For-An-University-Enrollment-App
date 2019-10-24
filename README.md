@@ -22,13 +22,13 @@ Creado el 4 de Octubre del 2019
 2. Descripción
    1. Perspectiva del producto      
    1. Funcionamiento general
-     - Alta de materias
-     - Baja de materias
-     - Listas de Espera
-     - Prerrequisitos
-     - Revisar horario
-     - Recuperar contraseña
-     - Iniciar Sesión
+      - Alta de materias
+      - Baja de materias
+      - Listas de Espera
+      - Prerrequisitos
+      - Revisar horario
+      - Recuperar contraseña
+      - Iniciar Sesión
    1. Tipos de usuarios y sus características     
    1. Ambiente de operación     
    1. Limitaciones de diseño y operación      
@@ -41,11 +41,11 @@ Creado el 4 de Octubre del 2019
    4. Interfaces de Comunicación
 4. Funcionalidades del Sistema
    1. Sesión del alumno
-     - Login
-     - Recuperar contraseña
-     - Cambiar contraseña
-     - Perfil
-     - Error
+      - Login
+      - Recuperar contraseña
+      - Cambiar contraseña
+      - Perfil
+      - Error
    1. Swag 1
    1. Swag 2
 
@@ -136,6 +136,12 @@ Creado el 4 de Octubre del 2019
 La vista del usuario se compondrá de varias pantallas. La primera de ellas será la pantalla de inicio, desde la cual se podrán ver las distintas actividades a realizar, así como el inicio de sesión. 
 
 Cada una de las funcionalidades tendrá su propia pantalla, desde la cuál se tendrá acceso a todas las distintas opciones requeridas para el correcto desempeño de la actividad planeada.
+
+## 3.2 Interfaz de Hardware
+
+## 3.3 Interfaz de Software
+
+## 3.4 Interfaces de Comunicación
 
 # 4. Funcionalidades del Sistema
 
