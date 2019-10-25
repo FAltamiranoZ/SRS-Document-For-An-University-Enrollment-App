@@ -54,25 +54,33 @@ Creado el 4 de Octubre del 2019
 ## 1.1. Propósito
 
    La creación de esta nueva página de inscripciones se hace con el enfoque de mejorar la que existe actualmente y que está disponible para estudiantes y administrativos desde el portal de grace ITAM.
-      Para esto, se busca mejorar la experiencia del usuario durante el proceso de inscripciones al: remover pantallas innecesarias, utilizar referencias cruzadas de información y la implementación de ayuda durante el proceso para aumentar la accesibilidad del producto.
-      Considerando todo lo previamente dicho, este producto sería la versión 2.0 del sistema de inscripciones actual, al empezar desde 0 el sistema y añadir/remover funcionalidades según se puedan adaptar al producto.
+   
+   Para esto, se busca mejorar la experiencia del usuario durante el proceso de inscripciones al: remover pantallas innecesarias, utilizar referencias cruzadas de información y la implementación de ayuda durante el proceso para aumentar la accesibilidad del producto.
+      
+   Considerando todo lo previamente dicho, este producto sería la versión 2.0 del sistema de inscripciones actual, al empezar desde 0 el sistema y añadir/remover funcionalidades según se puedan adaptar al producto.
       
 ## 1.2 Convenciones
 
    Para el formato de texto de este documento, se utilizó el lenguaje Markdown debido a su integración con Github.
+   
    Para la estructuración, se utilizó el formato especificado por la IEEE para la creación de documentos de especificación de requerimientos de software.
+   
    Para las estimaciones se sigue un formato de estilo Pokemon, el cual se estructura de la siguiente manera: Magikarp (baja), Pikachu (media), Charizard (grande), Mewtwo (Enorme).
       
 ## 1.3 Público y recomendaciones de lectura
 
    Este documento esta escrito con un enfoque dirigido a un público de programadores/desarrolladores para facilitar su comprensión sobre los requerimientos para la implementación de las funciones especificadas; también esta pensado para coordinadores o administradores del equipo de trabajo, para favorecer la comprensión de la escala, necesidades, problemáticas y enfoque del proyecto
-      Para la lectura, se recomienda que esta siga un orden lineal para la mejor comprensión de todas las partes y el porque estan implementadas de esta manera. 
-      Sin embargo, de haber algún problema de comprensión, se recomienda fuertemente que el lector se diriga a la sección 1.5, donde hallará referencias útiles para la mejor comprensión de las temáticas tratadas; y de la misma manera, se refiera al Apéndice A de la sección 6, donde encontrará un glosario para palabras poco comunes. 
-      Por último, se estructurará de la siguiente manera el documento a continuación presentado: Introducción al lector, Introducción al proyecto, Profundización en los requerimientos de interfaz, Funcionalidades del sistema, Requerimientos para las áreas relacionadas al proyecto y otros requerimientos no especificados previamente. 
+   
+   Para la lectura, se recomienda que esta siga un orden lineal para la mejor comprensión de todas las partes y el porque estan implementadas de esta manera. 
+      
+   Sin embargo, de haber algún problema de comprensión, se recomienda fuertemente que el lector se diriga a la sección 1.5, donde hallará referencias útiles para la mejor comprensión de las temáticas tratadas; y de la misma manera, se refiera al Apéndice A de la sección 6, donde encontrará un glosario para palabras poco comunes. 
+  
+  Por último, se estructurará de la siguiente manera el documento a continuación presentado: Introducción al lector, Introducción al proyecto, Profundización en los requerimientos de interfaz, Funcionalidades del sistema, Requerimientos para las áreas relacionadas al proyecto y otros requerimientos no especificados previamente. 
       
 ## 1.4 Alcance del producto
 
    El producto tiene como objetivo ser una plataforma que facilite el proceso de inscripción al usuario y la gestión de grupos a los administrativos; conseguiría esto mediante la añadidura de nuevas funcionalidades, remoción de las obsoletas y optimización de las existentes.
+   
    Esto ayudaría al ITAM a tener una mejor plataforma y a evitar costos innecesarios al automatizar múltiples procesos
       
 ## 1.5 Referencias
@@ -98,12 +106,15 @@ Creado el 4 de Octubre del 2019
 ## 2.3 Tipos de usuarios y sus características
 
    Los usuarios principales son alumnos, los cuales utilizarían el producto al inscribirse al inicio de semestre y darse de baja/consultar materias a lo largo de este.
+   
    Otro grupo de usuarios son los administrativos escolares, los cuales utilizarían el producto para revisar solicitudes de ruptura de seriación de materias, apertura y cierre de grupos y asignación de horarios y salones.
+   
    El último grupo de usuarios serían los encargados del mantenimiento de la página, los cuales cuidarían que no se saturen los servidores, arreglar bugs y cualquier otra tarea de mantenimiento del producto que surga.
       
 ## 2.4 Ambiente de operación
 
    Debido a las características de la plataforma de inscripciones ya existente, la nueva plataforma debe de poder ser visualizada de igual manera en cualquier navegador desde el cual se acceda, ya sea versión movil o de escritorio.
+   
    Además de esto, la plataforma debe de poder coexistir con el sistema de grace que tiene el ITAM, ya que es ahí donde estaría alojado el producto.
       
 ## 2.5 Limitaciones de diseño y operación
@@ -123,6 +134,7 @@ Creado el 4 de Octubre del 2019
 ## 2.6 Documentación para el usuario
 
    Al usuario, se le dará un manual especialmente diseñado para ayudarlo con el uso de la nueva plataforma, este se dividirá en 2 secciones; en la primera será un instructivo ilustrado paso a paso sobre como realizar todos los procesos, y la segunda una lista de preguntas hechas de manera frecuente, además de un contacto en caso de que se tengan dudas.
+   
    Este manual reemplazaría al actualmente existente que se distribuye por via electrónica todos los semestres.
       
 ## 2.7 Dependencias y supuestos
@@ -144,6 +156,10 @@ Creado el 4 de Octubre del 2019
    Además, será necesario almacenar en un servidor externo la página web desde la cuál se accederá al proyecto.
 
 ## 3.3 Interfaz de Software
+
+   Será necesario un manejador de base de datos, de preferencia Oracle, desde el cuál se harán las modificaciones necesarias a las tablas, para crear los horarios.
+   
+   Además, será necesario Visual Studio para desarollar el proyecto, el cuál seguirá la metodología de desarrollo de capas, el cual nos permitirá manejar cada uno de los componentes del proyecto sin demasiada complejidad.
 
 ## 3.4 Interfaces de Comunicación
 
