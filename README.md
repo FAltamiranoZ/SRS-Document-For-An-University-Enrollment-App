@@ -145,6 +145,16 @@ Cada una de las funcionalidades tendrá su propia pantalla, desde la cuál se te
 
 # 4. Funcionalidades del Sistema
 
+Emprenderemos un camino sobre cada una de las funcionalidades que debera de cumplir (hasta el momento) nuestro sistema, con el objetivo de poder alcanzar la mayor eficiencia posible para el usuario(alumnos o profesores) y a los desarrolladores.
+Por ende, es necesario hacer una división de cada uno de los usuarios para encontrar puntos a mejorar y después a desarrollar. 
+
 ## 4.1. Sesión del alumno
+
+En esta sección nos encargaremos de documentar todas las actividades fundamentales para un usuario promedio ( alumno del itam inscrito ) para que pueda iniciar sesión y poder inscribir o quitar cada una de las materias deseadas para ese semestre.
+
+
+
+# 5. Otros requerimientos
+
 
 
