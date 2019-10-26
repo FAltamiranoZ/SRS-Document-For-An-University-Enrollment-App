@@ -172,7 +172,7 @@ Por ende, es necesario hacer una división de cada uno de los usuarios para enco
 
 En esta sección nos encargaremos de documentar todas las actividades fundamentales para un usuario promedio ( alumno del itam inscrito ) para que pueda iniciar sesión y poder inscribir o quitar cada una de las materias deseadas para ese semestre.
 
-## 4.2. Inscripción del alumno
+## 4.2. Subir materia
 Permitirá que el usuario (alumno) inscriba sus materias en el semestre y período correspondiente.
 
 ### Pasos a realizar 
@@ -182,7 +182,17 @@ Permitirá que el usuario (alumno) inscriba sus materias en el semestre y perío
 
 Al inicio tenemos que tener la seguridad de que en la materia sigan teniendo cupo y que el alumno la pueda llevar
 
-# 5. Otros requerimientos
+## 4.3. Bajar materia
+Permitirá que el usuario (alumno) quite  sus materias del semestre y período correspondiente.Con la finalidad de no cursarla. 
+
+### Pasos a realizar 
+1) Iniciar sesión punto 4.1
+2) Selecciónar Materia que no quiere cursar.  
+3) Dar clic en el botón de quitar materia.
+
+Debemos de asegurarnos que la materia ya la tenga inscrita para ese periodo
+
+# 5. Requerimientos no funcionales
 
 
 
