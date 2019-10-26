@@ -193,6 +193,9 @@ Permitirá que el usuario (alumno) quite  sus materias del semestre y período c
 Debemos de asegurarnos que la materia ya la tenga inscrita para ese periodo
 
 # 5. Requerimientos no funcionales
+Describiremos las partes no funcionales al 100% del sistema. Este punto es de gran utilidad con la finalidad de conocer que limitantes tenemos por el momento y no poder esperar más cosas del software.
 
-
+## 5.1 Rendimiento
+Debemos de tener considerar que la velocidad del sistema con una demanda general debe ser la suficiente para que el usuario no sufra. Sin embargo, es necesario que las personas esten al tanto de que en momentos de pico ( inicio de semestres ) puede caer la velocidad dada la demanda del sistema.
+## 5.2 Seguridad
 
