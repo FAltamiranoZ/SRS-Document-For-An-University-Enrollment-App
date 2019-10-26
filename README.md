@@ -172,7 +172,15 @@ Por ende, es necesario hacer una división de cada uno de los usuarios para enco
 
 En esta sección nos encargaremos de documentar todas las actividades fundamentales para un usuario promedio ( alumno del itam inscrito ) para que pueda iniciar sesión y poder inscribir o quitar cada una de las materias deseadas para ese semestre.
 
+## 4.2. Inscripción del alumno
+Permitirá que el usuario (alumno) inscriba sus materias en el semestre y período correspondiente.
 
+### Pasos a realizar 
+1) Iniciar sesión punto 4.1 
+2) Selecciónar Materia de interes 
+3) Dar clic en el botón de agregar materia.
+
+Al inicio tenemos que tener la seguridad de que en la materia sigan teniendo cupo y que el alumno la pueda llevar
 
 # 5. Otros requerimientos
 
